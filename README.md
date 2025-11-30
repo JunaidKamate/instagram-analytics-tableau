@@ -64,5 +64,9 @@ Major drop occurs from Reach → Likes, indicating room for better CTAs.
 
 https://public.tableau.com/app/profile/junaid.kamate/viz/InstagramEngagementAnalyticsDashboard/Dashboard1
 
---
+---
+
+**Author: Junaid S. Kamate**
+
+---
 
