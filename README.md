@@ -2,7 +2,7 @@
 
 A Tableau dashboard analyzing Sugar Cosmetics’ Instagram performance using cleaned and transformed social media data. Built with Python (data prep) and Tableau (visualization) to uncover engagement trends, top content, and posting insights.
 
---
+---
 
 **🚀 Project Overview**
 
@@ -16,7 +16,7 @@ Which hashtags drive higher interaction
 
 Audience drop-off across the engagement funnel
 
---
+---
 
 **🛠 Tools Used**
 
@@ -28,7 +28,7 @@ Tableau Public – Dashboard & visual analysis
 
 Excel – Initial data review
 
---
+---
 
 **📊 Dashboard Features**
 
@@ -46,7 +46,7 @@ Day-of-Week Engagement
 
 Engagement Funnel: Impressions → Reach → Likes → Comments → Shares → Saves
 
---
+---
 
 **🔍 Key Insights**
 
@@ -58,7 +58,7 @@ Top hashtags significantly boost engagement.
 
 Major drop occurs from Reach → Likes, indicating room for better CTAs.
 
---
+---
 
 **🔗 Dashboard Link**
 
