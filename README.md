@@ -1,7 +1,8 @@
-****📊 Instagram Performance Analytics Dashboard (Tableau)****
+**📊 Instagram Performance Analytics Dashboard (Tableau)**
 
 A Tableau dashboard analyzing Sugar Cosmetics’ Instagram performance using cleaned and transformed social media data. Built with Python (data prep) and Tableau (visualization) to uncover engagement trends, top content, and posting insights.
 
+--
 
 **🚀 Project Overview**
 
@@ -16,6 +17,7 @@ Which hashtags drive higher interaction
 Audience drop-off across the engagement funnel
 
 --
+
 **🛠 Tools Used**
 
 Python (Pandas) – Data cleaning & feature creation
@@ -27,6 +29,7 @@ Tableau Public – Dashboard & visual analysis
 Excel – Initial data review
 
 --
+
 **📊 Dashboard Features**
 
 KPI Cards: Total Posts, Likes, Comments, Reach, Avg Engagement Rate
@@ -44,6 +47,7 @@ Day-of-Week Engagement
 Engagement Funnel: Impressions → Reach → Likes → Comments → Shares → Saves
 
 --
+
 **🔍 Key Insights**
 
 Reels generate the highest engagement.
@@ -55,8 +59,10 @@ Top hashtags significantly boost engagement.
 Major drop occurs from Reach → Likes, indicating room for better CTAs.
 
 --
+
 **🔗 Dashboard Link**
 
-(https://public.tableau.com/app/profile/junaid.kamate/viz/InstagramEngagementAnalyticsDashboard/Dashboard1)
+https://public.tableau.com/app/profile/junaid.kamate/viz/InstagramEngagementAnalyticsDashboard/Dashboard1
 
 --
+
